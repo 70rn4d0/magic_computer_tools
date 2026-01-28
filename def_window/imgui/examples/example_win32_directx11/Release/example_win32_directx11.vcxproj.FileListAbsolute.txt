@@ -1,1 +1,0 @@
-\\wsl.localhost\Ubuntu\home\torn4do\code\magic_computer_tools\def_window\imgui\examples\example_win32_directx11\Release\example_win32_directx11.exe
